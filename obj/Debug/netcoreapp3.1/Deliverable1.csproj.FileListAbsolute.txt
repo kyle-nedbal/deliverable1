@@ -1,0 +1,10 @@
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.deps.json
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.json
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.dev.json
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfoInputs.cache
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfo.cs
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/kylenedbal/Projects/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.pdb
